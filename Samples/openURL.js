@@ -1,4 +1,4 @@
 // Description: Open URL
 
-var url = "https://github.com/mkyUt321/OpenAction-Tool";
+var url = "URL"; // Change to the URL you want to open
 app.launchURL(url, true);
